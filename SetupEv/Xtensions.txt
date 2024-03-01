@@ -1,0 +1,12 @@
+>path (install code command Path)
+>developer: Reload Window
+C# for vs code power by omniSharp(green white colr)
+C# exxtensions JosKreativ permet de crer des class et des choss C# en faisant click droit sur le dossier puis creer ce que je veux
+material icon theme Philpep Kief
+nuGet Gallery pscisto
+sqlite alexcvzz
+
+
+Lien important
+
+https://github.com/TrycatchLearn/Skinet
