@@ -28,5 +28,10 @@ namespace Infrastructure.Data
             }
             if(context.ChangeTracker.HasChanges()) await context.SaveChangesAsync();
         }
+
+        internal object Set<T>()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
